@@ -62,13 +62,11 @@ The model achieved promising results on the unseen Test Set:
 
 | Metric | Score |
 | :--- | :--- |
-| **Accuracy** | **99.xx%** |
-| **AUC Score** | **0.9xxx** |
-| **Recall (Sensitivity)** | **0.xxxx** |
-| **Precision** | **0.xxxx** |
-| **Dice Coefficient** | **0.xxxx** |
+| **Accuracy** | **0.99** |
+| **AUC Score** | **0.98** |
+| **Recall (Sensitivity)** | **0.80** |
+| **Precision** | **0.51** |
 
-*(Replace `0.xxxx` with your actual final numbers from the code output)*
 
 ---
 
@@ -78,7 +76,6 @@ The model achieved promising results on the unseen Test Set:
 *The model successfully localizes lesions even in complex scenarios.*
 
 ![Prediction Sample](assets/Prediction_Samples.png) 
-*(Please upload your generated prediction image here)*
 
 ### 2. ROC Curve
 *Demonstrating the trade-off between sensitivity and specificity.*
