@@ -79,16 +79,16 @@ The model achieved promising results on the unseen Test Set:
 ### 1. Model Predictions (Ground Truth vs AI)
 *The model successfully localizes lesions even in complex scenarios.*
 
-![Prediction Sample](assets/prediction_sample.png) 
+![Prediction Sample](assets/Prediction_Samples.png) 
 *(Please upload your generated prediction image here)*
 
 ### 2. ROC Curve
 *Demonstrating the trade-off between sensitivity and specificity.*
 
-![ROC Curve](assets/roc_curve.png)
+![ROC Curve](assets/ROC_Curve.png)
 
 ### 3. Confusion Matrix (Pixel-wise)
-![Confusion Matrix](assets/confusion_matrix.png)
+![Confusion Matrix](assets/Confussion_Matrix.png)
 
 ---
 
