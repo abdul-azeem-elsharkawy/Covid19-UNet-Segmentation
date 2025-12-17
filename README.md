@@ -17,7 +17,6 @@
 - [Performance & Results](#-performance--results)
 - [Visualizations](#-visualizations)
 - [Installation](#-installation)
-- [Contact](#-contact)
 
 ---
 
