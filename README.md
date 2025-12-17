@@ -45,8 +45,6 @@ We implemented a custom **U-Net** architecture, the gold standard for biomedical
 * **Decoder (Expansive Path):** Enables precise localization using UpSampling.
 * **Skip Connections:** Concatenates high-resolution features from the encoder to the decoder to preserve spatial details lost during pooling.
 
-![U-Net Architecture Diagram](https://upload.wikimedia.org/wikipedia/commons/3/36/U-net_architecture.png)
-*(Note: This is a placeholder standard U-Net image. You can replace it with your own model plot)*
 
 ---
 
