@@ -64,8 +64,9 @@ The model achieved promising results on the unseen Test Set:
 | :--- | :--- |
 | **Accuracy** | **0.99** |
 | **AUC Score** | **0.98** |
-| **Recall (Sensitivity)** | **0.80** |
-| **Precision** | **0.51** |
+| **Dice coefficient** | **0.52** |
+| **Recall (Sensitivity)** | **0.51** |
+| **Precision** | **0.84** |
 
 
 ---
